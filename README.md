@@ -1,2 +1,10 @@
-# SimpleCounter
-Created with CodeSandbox
+# Simple Counter - JavaScript Project
+
+## Key concepts covered :
+
+- document.querySelectorAll()
+- forEach()
+- addEventListener()
+- currentTarget property
+- classList
+- textContent
